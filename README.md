@@ -5,5 +5,5 @@ Project Plantains is a modular, open-source initiative focused on building detec
 ## Components
 
 - `detection-rules/`: Contains Sigma, YARA, KQL, and SQL rules.
-- `gh0st/`: Custom SIEM platform with GUI and detection pipeline.
+- `gh0st-siem/`: Custom SIEM platform with GUI and detection pipeline.
 
